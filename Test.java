@@ -1,5 +1,3 @@
-// 1. Define Interfaces
-
 interface Printable {
 
     void print();
@@ -9,8 +7,6 @@ interface Showable {
 
     void show();
 }
-
-// 2. Implement the Interfaces in a Class
 class Document implements Printable, Showable {
 
     @Override
@@ -24,7 +20,6 @@ class Document implements Printable, Showable {
     }
 }
 
-// 3. Main Public Class (File must be named Test.java)
 public class Test {
 
     public static void main(String[] args) {
