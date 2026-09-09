@@ -1,8 +1,5 @@
-
 import java.util.Scanner;
-
 class FloydsTriangle {
-
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         System.out.println("Enter the number of rows:");
