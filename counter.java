@@ -1,3 +1,4 @@
+//To demonstrate the use of the counter in java
 class counter {
     int count = 0;
     counter() {
