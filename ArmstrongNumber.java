@@ -1,7 +1,9 @@
-public class ArmstrongNumber{
+
+public class ArmstrongNumber {
+
     public static void main(String args[]) {
-        int n = 153; 
-        int arg = n; 
+        int n = 153;
+        int arg = n;
         int sum = 0;
         int r;
         while (n > 0) {
